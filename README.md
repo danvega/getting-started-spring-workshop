@@ -81,7 +81,7 @@ org.codemash.runkeeper
 - Core Fundamentals & Features (1hr)
     - Structuring your code
         - Main Application in root package above other classes
-        - Architecture (Layered/Hexigonal/)
+        - Architecture (Layered/Hexagonal)
     - Spring Beans
         - @Component / @Controller / @RestController / @Service / @Repository
         - @Bean
